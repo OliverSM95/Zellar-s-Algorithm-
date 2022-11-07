@@ -25,7 +25,7 @@ When testing the code, I would first check for errors then run/build "f5"
 
 I used the same date for most of my testing (2004 03 16) I kept it as a "parent tester" (like a porabola) 
 so any time if I needed to quickly test it to see if it was woking and know strait away.
-when fixing the jan feb issue with my code. I used an if statement to move imputed 1 or 2 to + 12 which wouild make them 13,14
+when fixing the jan feb issue with my code. I used an if statement to move inputed 1 or 2 to + 12 which wouild make them 13,14
 I trial and errored it going up 1 number on the (+12) number trying to see if the date would change.
 It felt hopeless as I went up with no avail. but luckly when I got to +17 it worked and the Jan/Feb issue was fixxed.
 I belive that the year issue is just a fault of the equation and couldnt be changed.
