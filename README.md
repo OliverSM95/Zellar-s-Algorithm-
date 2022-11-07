@@ -6,17 +6,17 @@ Test Log: (Can also be found at the bottom of the code)
 
 _______Testing_______
 My project is about Zellars algoritm which is a mathmatical statement that produces an answer of, the day of the week that 
-the imputed date was that year.
+the inputed date was that year.
 The start of my code requires you to enter 3 different numbers. The first was the year you were born with "int year;"
 The second is your month you were born "int month;". 1 issue with zellars algorithm is that
 normaly january and febuary have to be listed
 as 13 & 14 instead of the regular eg. March = 03. The final is the day "int day;"
 
-When entering the dates the imputed numbers go through zellars equation on *line 53.
+When entering the dates the inputed numbers go through zellars equation on *line 53.
 
 When testing the code I had 2 main problems.
 - Even though I had january and febuary as 13 and 14 the dates simply wouldnt work.
--If the imputed year were to long ago roughly (1700 and less) the dates wouldnt work
+-If the inputed year was to long ago roughly (1700 and less) the dates wouldnt work
 
 Note:(I have a website to test if the dates are correct) Site: https://www.mathsisfun.com/games/dayofweek.html (dont judge my website choice)
 -The website also has year inaccuracy limits (1582-4902)
